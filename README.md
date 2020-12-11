@@ -5,5 +5,5 @@
 
 
 ## Exemplos de como executar:
-  ''' $ ./vmm random 10 < anomaly.dat ''' Para executar o Random
-  ... $ ./vmm fifo 10 < anomaly.dat ...Para executar o FIFO
+  -$ ./vmm random 10 < anomaly.dat        Para executar o Random
+  -$ ./vmm fifo 10 < anomaly.dat          Para executar o FIFO
