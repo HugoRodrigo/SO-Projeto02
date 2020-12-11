@@ -3,6 +3,8 @@
 ###### Igor de Oliveira Silva - 3672
 ###### Alexandre Chain - 3924
 
+## link do github
+https://github.com/HugoRodrigo/SO-Projeto02
 
 ## Exemplos de como executar:
   ##### $ ./vmm random 10 < anomaly.dat        
